@@ -1,0 +1,63 @@
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #EBF5DF;
+  color: #648767;
+}
+
+.navbar-inverse {
+  background-color: #648767;
+  border-color: #648767;
+}
+
+#hi {
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.2),
+                 0px 6px 10px rgba(0,0,0,0.1),
+                 0px 10px 15px rgba(0,0,0,0.1); 
+}
+
+.me {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+.aboutme {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #648767;
+}
+
+.border-bottom {
+  border-bottom: 2px solid #F1F1F1;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-bottom: 10px;
+}
+
+.logo {
+  height: 100%;
+  width: 25px;
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color:white;
+}
+
+h1 {
+  font-weight:400;
+}
+
+
+
+
+
