@@ -1,2 +1,3 @@
-# Personal-Projects
-A compilation of the personal projects that I've been working on.
+# Colour Game
+
+This game tests an individual's knowledge of RGB colour codes.
